@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2023-11-07-mlproject/",
+    "title": "Dealing with Messy Data",
+    "description": {},
+    "author": [
+      {
+        "name": "Jiashu Liu",
+        "url": {}
+      }
+    ],
+    "date": "2023-11-08",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-11-07T21:35:13-05:00",
+    "input_file": "messay_data.knit.md"
+  }
+]

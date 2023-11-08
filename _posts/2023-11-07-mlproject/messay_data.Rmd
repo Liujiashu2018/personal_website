@@ -1,9 +1,13 @@
 ---
 title: "Dealing with Messy Data"
-output: html_document
+author: "Jiashu Liu"
 date: "2023-11-08"
+output:
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
