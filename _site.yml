@@ -1,0 +1,16 @@
+name: "website"
+title: "Jiashu Liu"
+description: |
+  Welcome to my personal website!
+output_dir: "_site"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+    - text: "Blog"
+      href: blog.html
+    - icon: fa fa-github 
+      href: https://github.com/Liujiashu2018
+    - icon: fa fa-linkedin 
+      href: https://github.com/Liujiashu2018
+output: distill::distill_article

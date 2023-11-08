@@ -1,0 +1,31 @@
+---
+title: "Jiashu Liu"
+image: "jiashuliu.jpeg"
+preview: "jiashuliu.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jiashuliu/"
+  - label: GitHub
+    url: "https://github.com/Liujiashu2018"
+  - label: Email
+    url: "mailto:jl14345@nyu.edu"
+output:
+  postcards::trestles
+description: |
+  Welcome to the website. I hope you enjoy it!
+site: distill::distill_website
+---
+
+## About me
+
+Welcome to my personal website! I am a second-year graduate student of the Applied Statistics for Social Science program at NYU Steinhardt as well as a recent graduate from Macalester College, obtaining bachelor degrees in both Economics and Applied Mathematics & Statistics. I have used R programming language since my first year in college. I enjoy using R for machine learning, data analysis, data visualization and creating Shiny apps. 
+
+## Education
+
+**New York University** | New York, NY
+
+MS in Applied Statistics for Social Science Research, Sept. 2022 ~ Present
+
+**Macalester College** | St Paul, MN
+
+BA in Economics and Applied Math & Statistics, Sept. 2018 ~ 2022
